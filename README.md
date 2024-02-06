@@ -28,5 +28,5 @@ TBD: PDF hochladen + Bild / Rezept ... ~
 
 ## Links (only visible in Source mode)
 
-[Spinatwähe]: https://github.com/radRoy/Kochen/blob/master/Spinatw%C3%A4he.md
-[Zwetschgenwähe]: https://github.com/radRoy/Kochen/blob/master/Zwetschgenw%C3%A4he.md
+[Spinatwähe]: interner link
+[Zwetschgenwähe]: interner link
