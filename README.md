@@ -28,5 +28,5 @@ TBD: PDF hochladen + Bild / Rezept ... ~
 
 ## Links (only visible in Source mode)
 
-[Spinatwähe]: interner link
-[Zwetschgenwähe]: interner link
+[Spinatwähe]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#spinatw%C3%A4he
+[Zwetschgenwähe]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#zwetschgenw%C3%A4he
