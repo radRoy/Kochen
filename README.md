@@ -1,5 +1,5 @@
 # [Kochen - schnelle Küche]
-Meine schnelle Küche. Einfache, schnelle und nahrhafte Gerichte. Eine Sammlung von Gerichten, die wenig Aufwand benötigen und ring in der Menge angepasst werden können.
+Meine (Mutters) schnelle Küche. Einfache, schnelle und nahrhafte Gerichte. Eine Sammlung von Gerichten, die wenig Aufwand benötigen und ring in der Menge angepasst werden können.
 
 ## [Rezepte]
 
@@ -30,14 +30,24 @@ TBD: PDF hochladen + Bild / Rezept ... ~
 ## [Allgemeinwissen]
 
 ### [Blätterteig]
+Blätterteig füllt sich beim [Backen] mit Luft und bläst sich auf wie ein Ballon wenn er mit nichts belegt ist.  
+- Das heisst (d.h.) zum Beispiel (z.B.): Der Blätterteig der [Spinatwähe] darf nicht unbelegt im Ofen vorgebacken werden.
+
+### [Spinat]
+Spinat wird mit Aromat gewürzt.
+
+### [Backen]
 
 
 ## Links (only visible in Source mode)
 
 
-[Kochen - schnelle Küche]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#
-[Rezepte]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Rezepte
-[Spinatwähe]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#spinatw%C3%A4he
-[Zwetschgenwähe]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#zwetschgenw%C3%A4he
-[Allgemeinwissen]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Allgemeinwissen
-[Blätterteig]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Bl%C3%A4tterteig
+[Kochen - schnelle Küche]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#kochen---schnelle-k%C3%BCche
+[Rezepte]:                 https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Rezepte
+[Spinatwähe]:              https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#spinatw%C3%A4he
+[Zwetschgenwähe]:          https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#zwetschgenw%C3%A4he
+[Piwal]:                   https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#piwal---eintopf-mit-reis-und-rindsvoressen
+[Allgemeinwissen]:         https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Allgemeinwissen
+[Blätterteig]:             https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Bl%C3%A4tterteig
+[Spinat]:                  https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Spinat
+[Backen]:                  https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Backent
