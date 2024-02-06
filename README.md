@@ -3,40 +3,48 @@ Meine (Mutters) schnelle Küche. Einfache, schnelle und nahrhafte Gerichte. Eine
 
 ## [Rezepte]
 
-### [Piwal - Eintopf mit Reis und Rindsvoressen][Piwal]
-Grundlage: [Betty Bossi: Piwal...](https://ww2.bettybossi.ch/de/Rezept/ShowRezept/BB_BBZF110615_0010A-40-de?title=Reispfanne&list=c%3d%26f%3d-pilaw&ps=6). Kann auch ohne Gemüse gemacht werden. Am besten noch ein Blattsalat dazu. Chinakohl ist ganz schnell gemacht.  
-TBD: PDF hochladen + Bild / Rezept ... ~
+### [Spinatwähe] (top!)
 
-### [Spinatwähe]
-
-- 800g Rahmspinat auftauen falls gefroren
-- Blätterteig bei Bedarf auswallen bis der Rand in der Backform genug hoch ist.
+- 800g [Spinat] (nicht [Rahmspinat] - Achtung Lactose!) auftauen falls gefroren
+- [Blätterteig] bei Bedarf auswallen bis der Rand in der Backform genug hoch ist.
 - Speckwürfel direkt auf Teig leeren, verteilen.
 - Guss machen & auch dazugeben:
   - 3 Eier
-  - Gewürz: Aromat (Spinat <=> Aromat), Knoblauch(pulver), Salz
-    - => Eier & Gewürz verquirlen
-  - 1 EL Mehl
-    - => mit Guss verquirlen
-  - ~ 1/2 100-150g-Packung Creme fraiche dazu
-    - => verquirlen
-  - 800g Spinat dazu
-    - => verquirlen
+  - Gewürz: Aromat, Knoblauch(pulver), [Salz]  
+  => Eier & Gewürz verquirlen (zum Beispiel (z.B.) mit der stehenden, multifunktionalen Maschine. Menge: schätzen, vorsichtig mit dem Salz)
+  - 1 EL [Mehl]  
+  => mit Guss verquirlen
+  - ~ 1/2 100-150g-Packung Creme fraiche dazu  
+  => verquirlen
+  - 800g Spinat dazu (muss völlig aufgetaut sein damit er sich gut mit dem Rest vermischt und giessbar wird)  
+  => verquirlen
 
-### [Zwetschgenwähe]
+### [Zwetschgenwähe] (top!)
 
 - Kuchenteig bei Bedarf auswallen bis der Rand in der Backform genug hoch ist.
+
+### [Piwal - Eintopf mit Reis und Rindsvoressen][Piwal]
+Grundlage: [Betty Bossi: Piwal...](https://ww2.bettybossi.ch/de/Rezept/ShowRezept/BB_BBZF110615_0010A-40-de?title=Reispfanne&list=c%3d%26f%3d-pilaw&ps=6). Kann auch ohne Gemüse gemacht werden. Am besten noch ein Blattsalat dazu. Chinakohl ist ganz schnell gemacht.  
+TBD: PDF hochladen + Bild / Rezept ... ~
 
 ## [Allgemeinwissen]
 
 ### [Blätterteig]
 Blätterteig füllt sich beim [Backen] mit Luft und bläst sich auf wie ein Ballon wenn er mit nichts belegt ist.  
-- Das heisst (d.h.) zum Beispiel (z.B.): Der Blätterteig der [Spinatwähe] darf nicht unbelegt im Ofen vorgebacken werden.
+- Das heisst (d.h.) z.B.: Der Blätterteig der [Spinatwähe] darf nicht unbelegt im Ofen vorgebacken werden.
+
+Achtung Gluten!
 
 ### [Spinat]
 Spinat wird mit Aromat gewürzt.
 
 ### [Backen]
+
+### [Mehl]
+Achtung Gluten!
+
+### [Milch]
+Achtung Lactose!
 
 
 ## Links (only visible in Source mode)
@@ -50,4 +58,5 @@ Spinat wird mit Aromat gewürzt.
 [Allgemeinwissen]:         https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Allgemeinwissen
 [Blätterteig]:             https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Bl%C3%A4tterteig
 [Spinat]:                  https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Spinat
-[Backen]:                  https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Backent
+[Backen]:                  https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Backen
+[Rahmspinat]:              https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Rahmspinat
