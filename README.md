@@ -47,11 +47,11 @@ auf den Teig leeren
 Grundlage: [Betty Bossi: Piwal...](https://ww2.bettybossi.ch/de/Rezept/ShowRezept/BB_BBZF110615_0010A-40-de?title=Reispfanne&list=c%3d%26f%3d-pilaw&ps=6). Kann auch ohne Gemüse gemacht werden. Am besten noch ein Blattsalat dazu. Chinakohl ist ganz schnell gemacht.  
 TBD: PDF hochladen + Bild / Rezept ... ~
 
-## [Momos]
+### [Momos]
 
 <https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_BBZB210215_0007A-40-de?title=Momos-tibetische-Teigtaschen>
 
-## [Nusstorte]
+### [Nusstorte]
 
 <https://m.bettybossi.ch/de/Rezept/ShowRezept/BB_KUCA130802_0132A-120-de?setDevice=auto>
 
@@ -111,16 +111,18 @@ z.B.:
 ```
 
 [Kochen - schnelle Küche]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#kochen---schnelle-k%C3%BCche
-[Rezepte]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Rezepte
-[Spinatwähe]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#spinatw%C3%A4he
-[Zwetschgenwähe]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#zwetschgenw%C3%A4he
-[Piwal]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#piwal---eintopf-mit-reis-und-rindsvoressen
-[Spinatwähe]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#momos
-[Allgemeinwissen]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Allgemeinwissen
-[Blätterteig]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Bl%C3%A4tterteig
-[Spinat]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Spinat
-[Backen]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Backen
-[Rahmspinat]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Rahmspinat
-[Aromat]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Aromat
-[Backbeutel]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Backbeutel
-[Abkürzungen]: https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Abk%C3%BCrzungen
+[Rezepte]:                 https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Rezepte
+[Spinatwähe]:              https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#spinatw%C3%A4he
+[Zwetschgenwähe]:          https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#zwetschgenw%C3%A4he
+[Piwal]:                   https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#piwal---eintopf-mit-reis-und-rindsvoressen
+[Spinatwähe]:              https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#momos
+[Allgemeinwissen]:         https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Allgemeinwissen
+[Blätterteig]:             https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Bl%C3%A4tterteig
+[Spinat]:                  https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Spinat
+[Backen]:                  https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Backen
+[Rahmspinat]:              https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Rahmspinat
+[Aromat]:                  https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Aromat
+[Backbeutel]:              https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Backbeutel
+[Abkürzungen]:             https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Abk%C3%BCrzungen
+[momos]:                   https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Momos
+[nusstorte]:               https://github.com/radRoy/Kochen/tree/master?tab=readme-ov-file#Nusstorte
