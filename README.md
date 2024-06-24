@@ -51,6 +51,10 @@ TBD: PDF hochladen + Bild / Rezept ... ~
 
 <https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_BBZB210215_0007A-40-de?title=Momos-tibetische-Teigtaschen>
 
+## [Nusstorte]
+
+<https://m.bettybossi.ch/de/Rezept/ShowRezept/BB_KUCA130802_0132A-120-de?setDevice=auto>
+
 ## [Allgemeinwissen]
 
 ### [Blätterteig]
